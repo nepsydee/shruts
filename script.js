@@ -61,7 +61,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 // header design file
 
 const typed = new Typed(".multiple-text", {
-  strings: ["Culinary Chef", "Freelancer", "Blogger"],
+  strings: ["Culinary Chef", "Kitchen Hand", "Freelancer", "Blogger"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
